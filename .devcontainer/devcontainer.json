@@ -1,6 +1,8 @@
 {
     "name": "myjulia",
-    "image": "okamumu/julia:1.8.3-arduino",
+    "build": {
+        "dockerfile": "../Dockerfile"
+    },
     "customizations": {
         "vscode": {
             "extensions": [
@@ -9,7 +11,7 @@
 				"hediet.vscode-drawio"
 			],
             "settings": {
-                "julia.executablePath": "/opt/julia/bin/julia",
+                "julia.executablePath": "/usr/local/julia/bin/julia",
                 "editor.acceptSuggestionOnEnter": "off"
             }
         }
