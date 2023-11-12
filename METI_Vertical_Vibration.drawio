@@ -3307,7 +3307,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="HM_HD_R_PNT" id="LL-GKxd33UA-TSy0R2oi">
-        <mxGraphModel dx="1132" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="385" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="NgISWuUSyFGcDNZaWdN9-0"/>
                 <mxCell id="NgISWuUSyFGcDNZaWdN9-1" parent="NgISWuUSyFGcDNZaWdN9-0"/>
@@ -5413,7 +5413,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="DSuWhdCWL46I16dVPGeR" name="RD_PNT">
-        <mxGraphModel dx="680" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="385" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
