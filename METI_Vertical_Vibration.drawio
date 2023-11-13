@@ -7583,7 +7583,7 @@
                 <mxCell id="tpTLPdBo64ABvRQcQnID-31" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="tpTLPdBo64ABvRQcQnID-1" source="tpTLPdBo64ABvRQcQnID-17" target="tpTLPdBo64ABvRQcQnID-29" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <object label="%K%" block="Gain" K="K_Fr_sus" type="block" name="" placeholders="1" id="tpTLPdBo64ABvRQcQnID-32">
+                <object label="%K%" block="Gain" K="K_Rr_sus" type="block" name="" placeholders="1" id="tpTLPdBo64ABvRQcQnID-32">
                     <mxCell style="triangle;html=1;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];whiteSpace=wrap;fontSize=11;align=center;spacingLeft=-7;metaEdit=1;snapToPoint=0;allowArrows=0;resizable=0;rotatable=0;container=1;collapsible=0;movable=1;connectable=0;" parent="tpTLPdBo64ABvRQcQnID-1" vertex="1">
                         <mxGeometry x="330" y="260" width="50" height="50" as="geometry"/>
                     </mxCell>
