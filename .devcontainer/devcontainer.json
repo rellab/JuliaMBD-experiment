@@ -1,7 +1,7 @@
 {
     "name": "myjulia",
     "build": {
-        "dockerfile": "../Dockerfile"
+        "dockerfile": "Dockerfile"
     },
     "customizations": {
         "vscode": {
