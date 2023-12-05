@@ -1,29 +1,13 @@
-# JuliaMBD-template
+# JuliaMBD experiments
 
-A template for JuliaMBD with VSCode
+## Experiment 1
 
-## How to use
+- Compare JuliaMBD with Simulink on METI_Vertical_Vibration in JAMBE
+- Check the outputs of simulation models (12 outputs)
+- Check the outputs of each model
+- Measure the compilation time and the time for simulation
 
-1. `Use this template` on GitHub
-2. Clone and open it with VSCode
-3. Run the command `Reopen in container` (This is the command of devcontainer)
+## Experiment 2
 
-## Notes
+- Compare JuliaMBD with the old version of JuliaMBD which is before the refactoring
 
-- VSCode should be installed.
-- Docker engine should be installed.
-- Devcontainer extension of VSCode should be installed.
-
-## Install Julia Packages
-
-- Open `requirements.jl`
-- Run it with Julia REPL
-
-## Use GUI with Draw.io
-
-- Run `Draw.io: New Draw.io Diagram` from Command Palette
-- Import `library/JuliaMBD.xml`
-
-## Open Jupyter Notebook
-
-- Run `Create New Jupyter Notebook` from Command Palette
